@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kithmina1999" alt="kithmina1999" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently interested in **IOT**
 
 - 💬 Ask me about **React, NextJS , Java**
 
